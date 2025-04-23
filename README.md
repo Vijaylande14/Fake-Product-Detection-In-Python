@@ -32,24 +32,33 @@ A Python project to detect fake products by analyzing product reviews. If most r
 
 # images
 # This is Registration page 
-![2025-04-08](https://github.com/user-attachments/assets/40cc91ee-279c-4a5e-be40-80b5dce70f59)
+![regristration page](https://github.com/user-attachments/assets/be6285cd-aa1a-4df0-b944-52fc58012706)
+
 # This is Login Page 
-![2025-04-08 (1)](https://github.com/user-attachments/assets/381c4c87-8fc2-4273-bc5a-b85a4af17fe1)
+![login page](https://github.com/user-attachments/assets/9c871003-17ea-400d-bfa0-bbf64776a1b5)
+
 # Newly lauched mobiles 
- ![2025-04-08 (2)](https://github.com/user-attachments/assets/d7853899-9321-43ff-a236-ded434484ecb)
+![2025-04-08 (2)](https://github.com/user-attachments/assets/eb6e8ac8-9b25-42c3-baf7-ce4ef6a951c7)
+
 # Laptops
-![2025-04-08 (3)](https://github.com/user-attachments/assets/75769689-b175-4e7d-94f3-1246241d97f1)
+![2025-04-08 (3)](https://github.com/user-attachments/assets/de363a4e-0fec-4e18-8be9-ab0409601268)
+
 # Samsung tv
-![2025-04-08 (4)](https://github.com/user-attachments/assets/f746315e-ffdb-437c-893f-b0041eca92b8)
+![2025-04-08 (4)](https://github.com/user-attachments/assets/8c5a8094-f253-4842-bf6d-35f6848fd103)
+
 # Sony tv
-![2025-04-08 (5)](https://github.com/user-attachments/assets/feca449c-e5ab-464c-bc5b-7cc964c422ee)
+![2025-04-08 (5)](https://github.com/user-attachments/assets/ea1d4b17-05a4-4182-b840-be08eed75986)
+
 # Smart Watches
-![2025-04-08 (6)](https://github.com/user-attachments/assets/e533f6e1-fee4-4f5d-a5e6-44585f308239)
+![2025-04-08 (6)](https://github.com/user-attachments/assets/30f0f470-972c-4e38-b5eb-95162a1b50d2)
+
  # About Us 
- ![2025-04-08 (7)](https://github.com/user-attachments/assets/4322ced6-9790-4c77-b27b-97ddd9ed020d)
+![2025-04-08 (7)](https://github.com/user-attachments/assets/90496e43-24c9-456a-8bff-2c162d31ecc9)
+
 # Enter Url
-![2025-04-08 (8)](https://github.com/user-attachments/assets/a8bd6a4e-be37-44a2-8cf8-a66ff3163e0d)
+![2025-04-08 (8)](https://github.com/user-attachments/assets/f2b8511e-e29d-4757-9c8b-9584ada1102e)
+
 # Review classifier 
-![2025-04-08 (9)](https://github.com/user-attachments/assets/8cd08e73-8a20-48e8-9aaa-02c60a3abd7b)
-![2025-04-08 (10)](https://github.com/user-attachments/assets/67137dd6-da15-44c7-9ace-223c74e96e0c)
+![2025-04-08 (9)](https://github.com/user-attachments/assets/91398d7c-2e4e-4e53-aba7-3767722c3b61)
+![2025-04-08 (10)](https://github.com/user-attachments/assets/4c3aabe6-d782-4617-beb1-753e01e0acab)
 
