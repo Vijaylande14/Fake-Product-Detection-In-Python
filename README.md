@@ -3,7 +3,15 @@ A Python project to detect fake products by analyzing product reviews. If most r
 
 ## 💡 Key Idea
 
-- Detect fake reviews using machine learning
+- Detect fake products by analyzing their descriptions using Natural Language Processing (NLP).
+
+- Identify suspicious patterns like spammy words, unnatural sentences, and low-quality text.
+
+- Predict whether a product is genuine or fake based on the description content.
+
+- Allow users to enter a product URL to automatically fetch and analyze the product description.
+
+- Use machine learning algorithms (Logistic Regression, SVM, Random Forest) for classification.
 
 ## 🧠 Technologies Used
 
